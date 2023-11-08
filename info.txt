@@ -1,0 +1,5 @@
+Student_id : 2313111110
+Student Name : Chaninton
+Major : IT
+Level : 1
+Faculty : Information technology
