@@ -1,4 +1,4 @@
 Id : 2313111110
 Name-Surname : Chaninton Pengrat
-Date :   November 28, 2023, 8.30–10.30
+Date :   November 28–29, 2023, 11.30–14.30
 Topic : Example: Control Statement (Decision, Loop, and Jump Statement)
