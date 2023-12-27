@@ -1,4 +1,4 @@
 Id : 2313111110
 Name-Surname : Chaninton Pengrat
-Date :   Lab#6 Sec1&2: December 20, 2023, 11.30–14.30
-Topic :  Example: Method and Overloading Method
+Date :   December 27, 2023, 11.30–14.30
+Topic :  Array and Array Method
