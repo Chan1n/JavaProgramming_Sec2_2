@@ -1,4 +1,4 @@
 Id : 2313111110
 Name-Surname : Chaninton Pengrat
-Date :   December 27, 2023, 11.30–14.30
-Topic :  Array and Array Method
+Date :  January 09-10, 2024, 11.30–14.30
+Topic :  Class and Object
