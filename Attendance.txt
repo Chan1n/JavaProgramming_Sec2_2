@@ -1,4 +1,4 @@
 Id : 2313111110
 Name-Surname : Chaninton Pengrat
-Date :  January 09-10, 2024, 11.30–14.30
-Topic :  Class and Object
+Date :  Sec1&2: January 16-17, 2024, 11.30–14.30
+Topic :  Encapsulation Concept
