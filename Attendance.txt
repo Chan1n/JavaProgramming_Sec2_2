@@ -1,5 +1,4 @@
 Id : 2313111110
 Name-Surname : Chaninton Pengrat
-Date : Sec1&2: January 30-31, 2024, Sec1:11.30–14.30 , Sec2:11.00-14.00
-Topic :  Composition, Inheritance, and Polymorphism Concept
-Abstract and Interface
+Date : Lab#12 Sec2: February 07, 2024, Sec2:11.00-14.00
+Topic :  Read File
