@@ -1,4 +1,4 @@
 Id : 2313111110
 Name-Surname : Chaninton Pengrat
-Date : Lab#12 Sec2: February 07, 2024, Sec2:11.00-14.00
-Topic :  Read File
+Date : Lab#13 Sec2: February 14, 2024, Sec2:11.00-14.00
+Topic :  Read File & Write File
